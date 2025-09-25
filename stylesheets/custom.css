@@ -1,0 +1,21 @@
+/* Hide the "Made with Material for MkDocs" attribution */
+.md-footer-meta__inner {
+  display: none !important;
+}
+
+/* Alternative: Hide just the copyright text if the above doesn't work */
+.md-footer-copyright {
+  display: none !important;
+}
+
+/* Increase logo size */
+.md-header__button.md-logo {
+  width: 100px !important; /* Default is usually 48px */
+  height: 100px !important;
+}
+
+.md-header__button.md-logo img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+}
