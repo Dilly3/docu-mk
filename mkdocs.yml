@@ -1,5 +1,5 @@
 site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_url: https://dilly3.github.io/docu-mk
 extra_css:
   - stylesheets/custom.css
 extra:
