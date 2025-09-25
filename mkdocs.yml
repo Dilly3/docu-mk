@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name: Doc Settings
 site_url: https://dilly3.github.io/docu-mk
 extra_css:
   - stylesheets/custom.css
