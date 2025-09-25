@@ -10,8 +10,8 @@
 
 /* Increase logo size */
 .md-header__button.md-logo {
-  width: 60px !important; /* Default is usually 48px */
-  height: 60px !important;
+  width: 100px !important; /* Default is usually 48px */
+  height: 100px !important;
 }
 
 .md-header__button.md-logo img {
