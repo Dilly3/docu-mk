@@ -1,0 +1,9 @@
+/* Hide the "Made with Material for MkDocs" attribution */
+.md-footer-meta__inner {
+  display: none !important;
+}
+
+/* Alternative: Hide just the copyright text if the above doesn't work */
+.md-footer-copyright {
+  display: none !important;
+}
