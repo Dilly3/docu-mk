@@ -7,3 +7,15 @@
 .md-footer-copyright {
   display: none !important;
 }
+
+/* Increase logo size */
+.md-header__button.md-logo {
+  width: 60px !important; /* Default is usually 48px */
+  height: 60px !important;
+}
+
+.md-header__button.md-logo img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+}
